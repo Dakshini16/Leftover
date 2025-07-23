@@ -1,0 +1,21 @@
+.congrats-container {
+    padding: 20px;
+    background-color: #f0f8f4; /* Light green background */
+    text-align: center; /* Center align text */
+  }
+  
+  .check-icon {
+    font-size: 50px; /* Size of the checkmark icon */
+    color: #4caf50; /* Green color for the checkmark */
+    margin-bottom: 20px; /* Space below the icon */
+  }
+  
+  .try-order-button {
+    background-color: #0288d1; /* Try Order button color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,28 @@
+.order-container {
+    padding: 20px;
+    background-color: #f0f8f4; /* Light green background */
+  }
+  
+  .order-item {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+  }
+  
+  .order-item img {
+    width: 50px; /* Size of the food image */
+    height: 50px; /* Size of the food image */
+    margin-right: 10px;
+  }
+  
+  .buy-again-button,
+  .complaint-button {
+    background-color: #0288d1; /* Button color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 5px; /* Space between buttons */
+  }
+  

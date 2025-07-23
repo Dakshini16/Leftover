@@ -1,0 +1,51 @@
+.map-container {
+    padding: 20px;
+    background-color: #f0f8f4; /* Light green background */
+    text-align: center; /* Center align text */
+  }
+  
+  .back-button {
+    background-color: #ff5722; /* Back button color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 15px; /* Space below the button */
+  }
+  
+  .map-placeholder {
+    width: 100%;
+    height: 300px; /* Placeholder height for the map */
+    background-color: #ccc; /* Grey background for map placeholder */
+    margin-bottom: 20px; /* Space below the map */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .find-location-label {
+    margin-top: 20px; /* Space above the label */
+  }
+  
+  .location-input {
+    width: 80%; /* Input width */
+    padding: 10px;
+    margin-bottom: 20px; /* Space below the input */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .selected-location {
+    margin-bottom: 20px; /* Space below the location text */
+  }
+  
+  .set-location-button {
+    background-color: #0288d1; /* Set Location button color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

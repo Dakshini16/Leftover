@@ -1,0 +1,40 @@
+.profile-container {
+    padding: 20px;
+    background-color: #f0f8f4; /* Light green background */
+  }
+  
+  .profile-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile-image {
+    font-size: 50px; /* Size of the profile image */
+    margin-right: 10px;
+  }
+  
+  .recent-orders {
+    margin-top: 20px;
+  }
+  
+  .order-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .order-item img {
+    width: 50px; /* Size of the food image */
+    height: 50px; /* Size of the food image */
+    margin-right: 10px;
+  }
+  
+  .buy-again-button {
+    background-color: #0288d1; /* Button color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

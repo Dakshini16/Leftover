@@ -1,0 +1,37 @@
+.calling-container {
+    padding: 20px;
+    background-color: #f0f8f4; /* Light green background */
+    text-align: center;
+  }
+  
+  .back-button {
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
+  .caller-info {
+    margin: 20px 0;
+  }
+  
+  .person-icon {
+    font-size: 50px; /* Larger size for the person icon */
+  }
+  
+  .controls {
+    margin-top: 30px;
+  }
+  
+  .speaker-button,
+  .cut-button {
+    background-color: #0288d1; /* Button color */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px; /* Space between buttons */
+  }
+  

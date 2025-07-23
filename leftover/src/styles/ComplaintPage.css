@@ -1,0 +1,28 @@
+.complaint-container {
+    padding: 20px;
+    background-color: #f0f8f4; /* Light green background */
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .buttons {
+    margin-top: 15px;
+  }
+  
+  .submit-button,
+  .skip-button {
+    background-color: #0288d1; /* Button color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 5px; /* Space between buttons */
+  }
+  

@@ -1,0 +1,40 @@
+.checkout-container {
+    padding: 20px;
+    background-color: #f0f8f4; /* Light green background */
+  }
+  
+  .back-button {
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
+  .delivery-container {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .edit-button {
+    background-color: #ffa500; /* Orange color for edit button */
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .checkout-button {
+    background-color: #0288d1; /* Button color */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  

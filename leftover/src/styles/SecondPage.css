@@ -1,0 +1,26 @@
+.second-page-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #f0f8f4; /* Light green background */
+    text-align: center;
+  }
+  
+  .second-page-image {
+    width: 300px; /* Adjust as needed */
+    margin-bottom: 20px;
+  }
+  
+  .next-button {
+    background-color: #4caf50; /* Green button */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  

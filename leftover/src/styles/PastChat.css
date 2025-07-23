@@ -1,0 +1,15 @@
+.past-chat-container {
+    padding: 20px;
+    background-color: #f0f8f4; /* Light green background */
+  }
+  
+  .back-button {
+    background-color: #0288d1; /* Button color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 15px; /* Space below the button */
+  }
+  

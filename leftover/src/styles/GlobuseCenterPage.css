@@ -1,0 +1,62 @@
+.globuse-center-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #f0f8f4; /* Light green background */
+    text-align: center;
+  }
+  
+  .back-button {
+    align-self: flex-start;
+    margin: 20px;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
+  .place-image {
+    width: 80%; /* Adjust the width of the image */
+    margin: 20px 0;
+  }
+  
+  .place-info {
+    width: 80%; /* Adjust width as needed */
+  }
+  
+  .popular-tag {
+    background-color: #ffeb3b; /* Yellow color for the popular tag */
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .location {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .heart-icon {
+    width: 20px; /* Adjust size of heart icon */
+    cursor: pointer;
+  }
+  
+  .rating {
+    margin: 10px 0;
+  }
+  
+  .description {
+    margin: 10px 0;
+  }
+  
+  .add-to-cart {
+    background-color: #0288d1; /* Button color */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  

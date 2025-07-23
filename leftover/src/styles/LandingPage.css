@@ -1,0 +1,21 @@
+.landing-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #4caf50, #a5d6a7); /* Green gradient */
+  }
+  
+  .logo {
+    width: 200px; /* Adjust size based on your logo */
+    margin-bottom: 20px;
+  }
+  
+  .food-layout {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: -10px 0px 20px rgba(0, 0, 0, 0.2); /* Left shadow */
+  }
+  

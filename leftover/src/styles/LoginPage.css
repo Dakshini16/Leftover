@@ -1,0 +1,58 @@
+.login-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f8f4; /* Light green background */
+    text-align: center;
+  }
+  
+  .logo {
+    width: 100px; /* Adjust based on your logo size */
+    margin-bottom: 20px;
+  }
+  
+  .app-name {
+    color: #4caf50; /* Green color */
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .brand-text {
+    margin-bottom: 30px;
+    font-size: 18px;
+  }
+  
+  .signup-section {
+    width: 300px; /* Fixed width for inputs */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .options {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .create-account {
+    background-color: #4caf50; /* Green button */
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .existing-account {
+    margin-top: 20px;
+  }
+  

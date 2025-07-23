@@ -1,0 +1,35 @@
+.chat-container {
+    padding: 20px;
+    background-color: #f0f8f4; /* Light green background */
+  }
+  
+  .back-button {
+    background-color: #0288d1; /* Button color */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 15px; /* Space below the button */
+  }
+  
+  .chat-item {
+    display: flex;
+    align-items: center;
+    margin: 15px 0;
+    cursor: pointer;
+  }
+  
+  .profile-icon {
+    font-size: 30px; /* Size of the profile icon */
+    margin-right: 10px;
+  }
+  
+  .chat-info {
+    flex-grow: 1; /* Take up remaining space */
+  }
+  
+  .chat-time {
+    color: #888; /* Color for chat time */
+  }
+  
